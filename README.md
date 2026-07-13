@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm a passionate Web Developer and MERN Stack Enthusiast currently pursuing my B.Tech in Computer Science.<br>I enjoy building responsive websites, creative user interfaces, and real-world projects that solve problems.<br>🌱 Currently learning: Full Stack Development<br>💻 Skills: HTML, CSS, Basic JavaScript, React.js, Node.js, MongoDB<br>🚀 Interested in: Web Development, Open Source, Startups<br>🎯 Goal: To become a skilled Software Developer and contribute to impactful projects<br>📫 Reach me at: anamikasharma84702@gmail.com
+I'm a passionate Web Developer and MERN Stack Enthusiast currently pursuing my B.Tech in Computer Science.<br>I enjoy building responsive websites, creative user interfaces, and real-world projects that solve problems.<br>🌱 Currently learning: Full Stack Development<br>💻 Skills: HTML, CSS, Basic JavaScript, DJango, SQLlite<br>🚀 Interested in: Web Development, Open Source, Startups<br>🎯 Goal: To become a skilled Software Developer and contribute to impactful projects<br>📫 Reach me at: anamikasharma84702@gmail.com
 
 
 ## 🌐 Socials:
